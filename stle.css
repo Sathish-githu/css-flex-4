@@ -1,0 +1,21 @@
+.flex-container{
+    border: 2px solid red;
+    display: flex;
+}
+.as{
+    border: 2px solid;
+    width: 100%;
+
+}
+.flex-child-1{
+    order: 2;
+}
+.flex-child-2{
+    order: 3;
+}
+.flex-child-3{
+    order: 4;
+}
+.flex-child-4{
+    order: -1;
+}
